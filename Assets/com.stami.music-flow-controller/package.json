@@ -10,7 +10,5 @@
     "email": "jakub.baka@int.pl",
     "url": "https://github.com/TheStami/Unity-MusicFlowController"
   },
-  "dependencies": {
-    "com.stami.musicflowcontroller": "https://github.com/TheStami/Unity-MusicFlowController"
-  }
+  "dependencies": {}
 }
