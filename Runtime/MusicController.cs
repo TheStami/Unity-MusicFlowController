@@ -12,7 +12,7 @@ namespace MusicFlowController
 
         [SerializeField] private List<MusicTrack> musicTracks;
         [Range(0f, 1f)] public float volume = 1f;
-        public float transitionSpeed = 0.01f;
+        public float transitionSpeed = 2f;
         public MusicTransitionType transitionMode = MusicTransitionType.EqualPowerCrossfade;
         [SerializeField] AudioMixerGroup audioMixerGroup;
         
