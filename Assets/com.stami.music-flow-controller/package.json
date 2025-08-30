@@ -1,0 +1,14 @@
+{
+  "name": "com.stami.music-flow-controller",
+  "version": "0.0.1",
+  "displayName": "Music Flow Controller",
+  "description": "Music Controller for smooth sound transitions",
+  "unity": "2022.3.54f1",
+  "keywords": [ "music", "controller", "audio" ],
+  "author": {
+    "name": "Jakub Baka",
+    "email": "jakub.baka@int.pl",
+    "url": "https://github.com/TheStami/Unity-MusicFlowController"
+  },
+  "dependencies": {}
+}
