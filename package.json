@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "displayName": "Music Flow Controller",
   "description": "Music Controller for smooth sound transitions",
-  "unity": "2022.3.54f1",
+  "unity": "2022.3",
   "keywords": [ "music", "controller", "audio" ],
   "author": {
     "name": "Jakub Baka",
