@@ -27,6 +27,7 @@
 ### 1. Basic Setup
 
 Add `MusicController` component to object.
+
 ![screenshot](.img/img1.png)
 
 You can add as many music tracks as you want. Name is optional. Add AutioClip to it.
